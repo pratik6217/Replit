@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pandas-profiling
+auto-sklearn
+streamlit-aggrid
+wget
